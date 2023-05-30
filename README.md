@@ -33,7 +33,7 @@ Part 1 and Part 2 – finished May 2022.
 
 CAPGEMINI - Start by Capgemini Program – Introductory Modules of Programming Logics, Java and  AWS CLOUD completed in July 2022.
 
-Java POO & Projects - Udemy (in progress 83%)
+Java POO & Projects - Udemy - completed May, 2023.
 
 Bootcamp Spring React Week - DevSuperior - completed November, 2022.
 
