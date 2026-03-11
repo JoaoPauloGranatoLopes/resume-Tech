@@ -1,5 +1,5 @@
 Name:	**JOÃO PAULO GRANATO LOPES**  
-Position: Java Developer | Spring Boot | Cloud (AWS)  (looking for a beginners position)  
+Position: Java Developer | Spring Boot | Cloud (AWS)   
 
 https://github.com/JoaoPauloGranatoLopes/  
 linkedin.com/in/joão-paulo-granato-lopes-8444b8128
